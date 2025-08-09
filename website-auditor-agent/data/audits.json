@@ -1,0 +1,317 @@
+{
+  "c2278b9b-11c1-4fd5-b58e-71e5ce9dc320": {
+    "meta": {
+      "url": "https://issb.gov.pk/",
+      "generatedAt": "2025-08-09T10:52:00.509Z"
+    },
+    "seo": {
+      "score": 70,
+      "findings": [
+        {
+          "title": "Missing meta description",
+          "action": "Add a meta description (50-160 chars)."
+        },
+        {
+          "title": "No H1 found",
+          "action": "Ensure each page has a single, clear H1 tag."
+        }
+      ]
+    },
+    "performance": {
+      "score": 0,
+      "findings": [],
+      "mobile": null,
+      "desktop": null,
+      "serverFetchMs": 0
+    },
+    "security": {
+      "score": 60,
+      "findings": [
+        {
+          "title": "Missing HSTS",
+          "action": "Add Strict-Transport-Security header to enforce HTTPS."
+        },
+        {
+          "title": "Missing Content-Security-Policy",
+          "action": "Add a CSP header to mitigate XSS risks."
+        },
+        {
+          "title": "Missing X-Frame-Options",
+          "action": "Add X-Frame-Options to reduce clickjacking."
+        },
+        {
+          "title": "Missing Referrer-Policy",
+          "action": "Add Referrer-Policy to limit referrer exposure."
+        },
+        {
+          "title": "Detected JS libraries — verify versions",
+          "action": "Found 1 common libraries in page; check versions and update if outdated. Examples: jquery.js"
+        }
+      ],
+      "headers": {}
+    },
+    "aiSummary": {
+      "summary": "No AI summary produced",
+      "recommendations": []
+    },
+    "raw": {
+      "meta": {
+        "url": "https://issb.gov.pk/",
+        "requestedAt": "2025-08-09T10:51:46.147Z"
+      },
+      "seo": {
+        "scoreEstimate": 70,
+        "title": "Welcome to Inter Services Selection Board – – ISSB",
+        "metaDescription": "",
+        "canonical": "https://issb.gov.pk/",
+        "h1count": 0,
+        "h2count": 0,
+        "findings": [
+          {
+            "title": "Missing meta description",
+            "action": "Add a meta description (50-160 chars)."
+          },
+          {
+            "title": "No H1 found",
+            "action": "Ensure each page has a single, clear H1 tag."
+          }
+        ],
+        "raw": {
+          "internalLinks": [
+            "https://issb.gov.pk/",
+            "https://issb.gov.pk/index.php/history/",
+            "https://issb.gov.pk/index.php/selection-system-2/",
+            "https://issb.gov.pk/index.php/ineligibility/",
+            "https://issb.gov.pk/index.php/guideline/",
+            "https://issb.gov.pk/index.php/issb-schedule/",
+            "https://issb.gov.pk/index.php/contact/",
+            "https://issb.gov.pk/index.php/downloads/",
+            "https://issb.gov.pk/#gdpr-popup",
+            "https://issb.gov.pk/#"
+          ],
+          "brokenLinks": []
+        }
+      },
+      "performance": {
+        "findings": [],
+        "serverFetchMs": 0
+      },
+      "security": {
+        "headers": {},
+        "findings": [
+          {
+            "title": "Missing HSTS",
+            "action": "Add Strict-Transport-Security header to enforce HTTPS."
+          },
+          {
+            "title": "Missing Content-Security-Policy",
+            "action": "Add a CSP header to mitigate XSS risks."
+          },
+          {
+            "title": "Missing X-Frame-Options",
+            "action": "Add X-Frame-Options to reduce clickjacking."
+          },
+          {
+            "title": "Missing Referrer-Policy",
+            "action": "Add Referrer-Policy to limit referrer exposure."
+          },
+          {
+            "title": "Detected JS libraries — verify versions",
+            "action": "Found 1 common libraries in page; check versions and update if outdated. Examples: jquery.js"
+          }
+        ]
+      }
+    }
+  },
+  "034c323c-31b7-4e7c-9fc4-62c146db1845": {
+    "meta": {
+      "url": "https://fmoviesunblocked.net/spa/videoPlayPage/movies/paatal-lok-8Wxz1KsFYB8?id=7228513554264376400&type=/movie/detail",
+      "generatedAt": "2025-08-09T12:18:27.161Z"
+    },
+    "seo": {
+      "score": 0,
+      "findings": []
+    },
+    "performance": {
+      "score": 0,
+      "findings": [],
+      "mobile": null,
+      "desktop": null,
+      "serverFetchMs": 0
+    },
+    "security": {
+      "score": 68,
+      "findings": [
+        {
+          "title": "Missing HSTS",
+          "action": "Add Strict-Transport-Security header to enforce HTTPS."
+        },
+        {
+          "title": "Missing Content-Security-Policy",
+          "action": "Add a CSP header to mitigate XSS risks."
+        },
+        {
+          "title": "Missing X-Frame-Options",
+          "action": "Add X-Frame-Options to reduce clickjacking."
+        },
+        {
+          "title": "Missing Referrer-Policy",
+          "action": "Add Referrer-Policy to limit referrer exposure."
+        }
+      ],
+      "headers": {}
+    },
+    "aiSummary": {
+      "summary": "No AI summary produced",
+      "recommendations": []
+    },
+    "raw": {
+      "meta": {
+        "url": "https://fmoviesunblocked.net/spa/videoPlayPage/movies/paatal-lok-8Wxz1KsFYB8?id=7228513554264376400&type=/movie/detail",
+        "requestedAt": "2025-08-09T12:18:05.667Z"
+      },
+      "seo": {
+        "findings": [],
+        "scoreEstimate": 0
+      },
+      "performance": {
+        "findings": [],
+        "serverFetchMs": 0
+      },
+      "security": {
+        "headers": {},
+        "findings": [
+          {
+            "title": "Missing HSTS",
+            "action": "Add Strict-Transport-Security header to enforce HTTPS."
+          },
+          {
+            "title": "Missing Content-Security-Policy",
+            "action": "Add a CSP header to mitigate XSS risks."
+          },
+          {
+            "title": "Missing X-Frame-Options",
+            "action": "Add X-Frame-Options to reduce clickjacking."
+          },
+          {
+            "title": "Missing Referrer-Policy",
+            "action": "Add Referrer-Policy to limit referrer exposure."
+          }
+        ]
+      }
+    }
+  },
+  "64ef443a-f834-49cd-8dc0-ea48530dd1b1": {
+    "meta": {
+      "url": "https://fmoviesunblocked.net/spa/videoPlayPage/movies/paatal-lok-8Wxz1KsFYB8?id=7228513554264376400&type=/movie/detail",
+      "generatedAt": "2025-08-09T12:20:57.577Z"
+    },
+    "seo": {
+      "score": 70,
+      "findings": [
+        {
+          "title": "Missing meta description",
+          "action": "Add a meta description (50-160 chars)."
+        },
+        {
+          "title": "Missing canonical link",
+          "action": "Add <link rel=\"canonical\" href=\"...\"> to avoid duplicate content."
+        },
+        {
+          "title": "No H1 found",
+          "action": "Ensure each page has a single, clear H1 tag."
+        }
+      ]
+    },
+    "performance": {
+      "score": 0,
+      "findings": [],
+      "mobile": null,
+      "desktop": null,
+      "serverFetchMs": 0
+    },
+    "security": {
+      "score": 68,
+      "findings": [
+        {
+          "title": "Missing HSTS",
+          "action": "Add Strict-Transport-Security header to enforce HTTPS."
+        },
+        {
+          "title": "Missing Content-Security-Policy",
+          "action": "Add a CSP header to mitigate XSS risks."
+        },
+        {
+          "title": "Missing X-Frame-Options",
+          "action": "Add X-Frame-Options to reduce clickjacking."
+        },
+        {
+          "title": "Missing Referrer-Policy",
+          "action": "Add Referrer-Policy to limit referrer exposure."
+        }
+      ],
+      "headers": {}
+    },
+    "aiSummary": {
+      "summary": "No AI summary produced",
+      "recommendations": []
+    },
+    "raw": {
+      "meta": {
+        "url": "https://fmoviesunblocked.net/spa/videoPlayPage/movies/paatal-lok-8Wxz1KsFYB8?id=7228513554264376400&type=/movie/detail",
+        "requestedAt": "2025-08-09T12:20:46.482Z"
+      },
+      "seo": {
+        "scoreEstimate": 70,
+        "title": "moviebox",
+        "metaDescription": "",
+        "canonical": "",
+        "h1count": 0,
+        "h2count": 0,
+        "findings": [
+          {
+            "title": "Missing meta description",
+            "action": "Add a meta description (50-160 chars)."
+          },
+          {
+            "title": "Missing canonical link",
+            "action": "Add <link rel=\"canonical\" href=\"...\"> to avoid duplicate content."
+          },
+          {
+            "title": "No H1 found",
+            "action": "Ensure each page has a single, clear H1 tag."
+          }
+        ],
+        "raw": {
+          "internalLinks": [],
+          "brokenLinks": []
+        }
+      },
+      "performance": {
+        "findings": [],
+        "serverFetchMs": 0
+      },
+      "security": {
+        "headers": {},
+        "findings": [
+          {
+            "title": "Missing HSTS",
+            "action": "Add Strict-Transport-Security header to enforce HTTPS."
+          },
+          {
+            "title": "Missing Content-Security-Policy",
+            "action": "Add a CSP header to mitigate XSS risks."
+          },
+          {
+            "title": "Missing X-Frame-Options",
+            "action": "Add X-Frame-Options to reduce clickjacking."
+          },
+          {
+            "title": "Missing Referrer-Policy",
+            "action": "Add Referrer-Policy to limit referrer exposure."
+          }
+        ]
+      }
+    }
+  }
+}

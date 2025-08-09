@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "siteId": "fusst.fui.edu.pk",
+    "url": "https://fusst.fui.edu.pk/",
+    "generatedAt": "2025-08-09T04:43:30.000Z"
+  },
+  "seo": {
+    "score": 78,
+    "title": "FUSST - Example Site",
+    "metaDescription": "",
+    "canonical": "https://fusst.fui.edu.pk/",
+    "h1count": 0,
+    "h2count": 3,
+    "findings": [
+      {
+        "title": "Missing meta description",
+        "action": "Add a unique meta description (50–160 chars)."
+      },
+      {
+        "title": "Low heading structure",
+        "action": "Ensure a single H1 and use H2/H3 for sections."
+      }
+    ]
+  },
+  "heading": {
+    "h1s": [],
+    "h2s": [
+      "About",
+      "Programs"
+    ],
+    "note": "No H1 found"
+  },
+  "sitemap": {
+    "found": false,
+    "robotsFound": true
+  },
+  "links": {
+    "internalCount": 34,
+    "externalCount": 12,
+    "broken": [
+      {
+        "url": "https://fusst.fui.edu.pk/broken1",
+        "status": 404
+      },
+      {
+        "url": "https://fusst.fui.edu.pk/broken2",
+        "status": 500
+      },
+      {
+        "url": "https://external.site/missing",
+        "status": 404
+      }
+    ]
+  },
+  "perf": {
+    "mobile": {
+      "perfScore": 62,
+      "lcp": "3.2s",
+      "inp": "150ms",
+      "cls": "0.12"
+    },
+    "desktop": {
+      "perfScore": 74,
+      "lcp": "1.8s",
+      "inp": "50ms",
+      "cls": "0.03"
+    },
+    "serverFetchMs": 420
+  },
+  "https": {
+    "usesHttps": true,
+    "certIssuer": "Let's Encrypt",
+    "certExpiry": "2025-11-01T00:00:00.000Z"
+  },
+  "security": {
+    "headers": {
+      "strict-transport-security": null,
+      "content-security-policy": null,
+      "x-frame-options": "DENY",
+      "referrer-policy": "no-referrer"
+    },
+    "findings": [
+      {
+        "title": "Missing Content-Security-Policy",
+        "action": "Add a tight CSP header to reduce XSS risk."
+      },
+      {
+        "title": "Missing HSTS",
+        "action": "Enable HSTS to enforce HTTPS."
+      }
+    ]
+  },
+  "contact": {
+    "emails": [
+      "info@fui.edu.pk"
+    ],
+    "phones": [
+      "+92-51-111-000000"
+    ],
+    "forms": [
+      "/contact"
+    ]
+  },
+  "structured": {
+    "types": [
+      "Organization",
+      "BreadcrumbList"
+    ],
+    "note": "Some JSON-LD found; validate for completeness."
+  },
+  "summary": "SEO: meta & headings need work. Perf: mobile improvements needed. Security: add CSP/HSTS.",
+  "ad8e347c-9ca3-4a7e-a467-2c1a749ce67c": {
+    "meta": {
+      "url": "https://issb.gov.pk/",
+      "generatedAt": "2025-08-09T10:43:34.881Z"
+    },
+    "seo": {
+      "score": 70,
+      "findings": [
+        {
+          "title": "Missing meta description",
+          "action": "Add a meta description (50-160 chars)."
+        },
+        {
+          "title": "No H1 found",
+          "action": "Ensure each page has a single, clear H1 tag."
+        }
+      ]
+    },
+    "performance": {
+      "score": 0,
+      "findings": [],
+      "mobile": null,
+      "desktop": null,
+      "serverFetchMs": 0
+    },
+    "security": {
+      "score": 60,
+      "findings": [
+        {
+          "title": "Missing HSTS",
+          "action": "Add Strict-Transport-Security header to enforce HTTPS."
+        },
+        {
+          "title": "Missing Content-Security-Policy",
+          "action": "Add a CSP header to mitigate XSS risks."
+        },
+        {
+          "title": "Missing X-Frame-Options",
+          "action": "Add X-Frame-Options to reduce clickjacking."
+        },
+        {
+          "title": "Missing Referrer-Policy",
+          "action": "Add Referrer-Policy to limit referrer exposure."
+        },
+        {
+          "title": "Detected JS libraries — verify versions",
+          "action": "Found 1 common libraries in page; check versions and update if outdated. Examples: jquery.js"
+        }
+      ],
+      "headers": {}
+    },
+    "aiSummary": {
+      "summary": "No AI summary produced",
+      "recommendations": []
+    },
+    "raw": {
+      "meta": {
+        "url": "https://issb.gov.pk/",
+        "requestedAt": "2025-08-09T10:43:20.192Z"
+      },
+      "seo": {
+        "scoreEstimate": 70,
+        "title": "Welcome to Inter Services Selection Board – – ISSB",
+        "metaDescription": "",
+        "canonical": "https://issb.gov.pk/",
+        "h1count": 0,
+        "h2count": 0,
+        "findings": [
+          {
+            "title": "Missing meta description",
+            "action": "Add a meta description (50-160 chars)."
+          },
+          {
+            "title": "No H1 found",
+            "action": "Ensure each page has a single, clear H1 tag."
+          }
+        ],
+        "raw": {
+          "internalLinks": [
+            "https://issb.gov.pk/",
+            "https://issb.gov.pk/index.php/history/",
+            "https://issb.gov.pk/index.php/selection-system-2/",
+            "https://issb.gov.pk/index.php/ineligibility/",
+            "https://issb.gov.pk/index.php/guideline/",
+            "https://issb.gov.pk/index.php/issb-schedule/",
+            "https://issb.gov.pk/index.php/contact/",
+            "https://issb.gov.pk/index.php/downloads/",
+            "https://issb.gov.pk/#gdpr-popup",
+            "https://issb.gov.pk/#"
+          ],
+          "brokenLinks": []
+        }
+      },
+      "performance": {
+        "findings": [],
+        "serverFetchMs": 0
+      },
+      "security": {
+        "headers": {},
+        "findings": [
+          {
+            "title": "Missing HSTS",
+            "action": "Add Strict-Transport-Security header to enforce HTTPS."
+          },
+          {
+            "title": "Missing Content-Security-Policy",
+            "action": "Add a CSP header to mitigate XSS risks."
+          },
+          {
+            "title": "Missing X-Frame-Options",
+            "action": "Add X-Frame-Options to reduce clickjacking."
+          },
+          {
+            "title": "Missing Referrer-Policy",
+            "action": "Add Referrer-Policy to limit referrer exposure."
+          },
+          {
+            "title": "Detected JS libraries — verify versions",
+            "action": "Found 1 common libraries in page; check versions and update if outdated. Examples: jquery.js"
+          }
+        ]
+      }
+    }
+  }
+}

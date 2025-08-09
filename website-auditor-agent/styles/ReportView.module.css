@@ -1,0 +1,38 @@
+/* >>> file: styles/ReportView.module.css */
+.reportRoot { margin-top: 1rem; }
+.headerRow { display:flex; align-items:center; justify-content:space-between; gap:1rem; margin-bottom:1rem; }
+.title { margin:0; font-size:1.25rem; }
+.url { color:var(--muted); font-weight:600; font-size:.95rem; }
+.meta { color:var(--muted); font-size:.9rem; margin-top:.25rem; }
+
+.grid { display:grid; grid-template-columns:repeat(3,1fr); gap:1rem; }
+@media (max-width:1000px){ .grid { grid-template-columns:1fr; } }
+
+.card { background:var(--card-bg); border:1px solid var(--edge); border-radius:12px; box-shadow:var(--card-shadow); overflow:hidden; }
+.cardHeader { padding:.75rem 1rem; border-bottom:1px solid var(--edge); display:flex; align-items:center; justify-content:space-between; }
+.cardTitleRow { display:flex; align-items:center; gap:.5rem; width:100%; justify-content:space-between; }
+.collapseBtn { display:flex; align-items:center; gap:.5rem; background:transparent; border:none; padding:0; font-size:1rem; cursor:pointer; color:var(--text); }
+.collapseBtn:focus { outline:3px solid rgba(79,70,229,0.12); border-radius:8px; }
+
+.titleText { font-weight:700; }
+.scoreWrap { margin-left:auto; display:flex; align-items:center; gap:.5rem; }
+
+.cardBody { padding:1rem; }
+
+.findings { list-style:none; padding:0; margin:0; display:flex; flex-direction:column; gap:.75rem; }
+.finding { padding:.6rem .75rem; border-radius:8px; background:linear-gradient(180deg,#fff,#fbfdff); border:1px solid rgba(14,20,40,0.03); }
+.action { margin:0.25rem 0 0; color:var(--muted); }
+
+.empty { color:var(--muted); }
+
+/* Badge */
+.badge { display:inline-flex; align-items:center; justify-content:center; min-width:44px; height:36px; border-radius:10px; font-weight:700; color:white; padding:0 8px; }
+.badge.good { background: linear-gradient(90deg,#059669,#10b981); }
+.badge.warn { background: linear-gradient(90deg,#f59e0b,#f97316); }
+.badge.bad { background: linear-gradient(90deg,#ef4444,#dc2626); }
+
+/* small chevron */
+.chev { width:18px; height:18px; color:var(--muted); }
+
+/* small helpers */
+.actions .btn { margin-left:.5rem; }
